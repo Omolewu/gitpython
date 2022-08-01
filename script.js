@@ -65,5 +65,3 @@ console.log(greeting);
 */
 
 console.log(!(firstName == "Mariam" && firstName == "Aminat"))
-
-
