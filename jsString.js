@@ -34,4 +34,4 @@ console.log(phone.includes('081'));
 let text = "Hello world Hello world Hello world Hello world Hello world Hello world Hello world";
 // console.log(text.match(/Ld/ig))
 let a = 234;
-console.log(a.toString(10)) // number to string function 
+console.log(a.toString(10)) // numbers to string function 
